@@ -291,11 +291,13 @@ void LCD_init()
 
 
 ## Output screen shots :
+## before stimulation:
 
-![image](https://user-images.githubusercontent.com/94165326/200113387-1c3a8657-63d0-4967-81ea-8c720840f02e.png)
+## After stimulation:
+
 
 ## circuit diagram:
-![image](https://user-images.githubusercontent.com/94165326/200113407-029315d8-4d29-4aa6-ab7b-70077cf7b516.png)
+
 
 
 
